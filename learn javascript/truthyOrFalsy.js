@@ -1,0 +1,1 @@
+const truthyOrFalsy = a => a ? true : false;

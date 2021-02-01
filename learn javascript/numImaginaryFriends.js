@@ -1,0 +1,1 @@
+const numImaginaryFriends = n => Math.round((n*33)/100);
