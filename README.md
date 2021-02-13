@@ -1,5 +1,5 @@
 # Learnings-along-the-way
-This repo contains few things that I learnd including algorithms, language basics, class works, assignment, small projects from different cources, books and tutorials. This repo also contains projects of codeca
+This repo contains few things that I learnd including algorithms, language basics, class works, assignment, small projects from different cources, books and tutorials. This repo also contains projects of codecademy Full Stack developer course.
 
 # Technologies
 * C++
