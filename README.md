@@ -1,5 +1,5 @@
 # Learnings-along-the-way
-This repo contains few things that I learnd including algorithms, language basics, class works, assignment, small projects from different cources, books and tutorials.
+This repo contains few things that I learnd including algorithms, language basics, class works, assignment, small projects from different cources, books and tutorials. This repo also contains projects of codeca
 
 # Technologies
 * C++
@@ -27,4 +27,8 @@ This repo contains few things that I learnd including algorithms, language basic
 3. Lodash
 4. Mini Linter
 5. Mysterious Organism
+
+# Project using HTML
+1. Bear Blog
+2. Fashion Blog
 
