@@ -34,6 +34,7 @@ This repo contains few things that I learnd including algorithms, language basic
 3. About Dog
 4. City Blog
 5. Burger Form
+6. Form A story
 
 # Project usning CSS
 1. Healthy Recipes
