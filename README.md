@@ -44,6 +44,7 @@ This repo contains few things that I learnd including algorithms, language basic
 5. Broadway website
 6. Bana's Travel Blog
 7. Amainzing Space
+8. Tsunami Coffee
  
 # Project using HTML, CSS and JS
 1. Piano Keys
