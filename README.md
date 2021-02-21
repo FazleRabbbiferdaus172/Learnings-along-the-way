@@ -43,6 +43,7 @@ This repo contains few things that I learnd including algorithms, language basic
 4. Survey website
 5. Broadway website
 6. Bana's Travel Blog
+7. Amainzing Space
  
 # Project using HTML, CSS and JS
 1. Piano Keys
