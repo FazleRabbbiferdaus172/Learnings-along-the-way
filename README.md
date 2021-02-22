@@ -47,6 +47,7 @@ This repo contains few things that I learnd including algorithms, language basic
 8. Tsunami Coffee
 9. Mass Media
 10. TODO
+11. Grid practice
  
 # Project using HTML, CSS and JS
 1. Piano Keys
