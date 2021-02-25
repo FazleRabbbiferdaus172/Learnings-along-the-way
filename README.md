@@ -13,6 +13,7 @@ This repo contains few things that I learnd including algorithms, language basic
 1. Insertion sort (C++)
 2. Adjacency List, BFS, DFS (Python) 
 3. Recursion (Python)
+4. Cycle finding in a Graph
 
 # List of Simulation using Python
 1. Buffon's needle
