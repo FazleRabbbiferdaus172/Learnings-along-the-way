@@ -51,6 +51,7 @@ This repo contains few things that I learnd including algorithms, language basic
 12. Cook book
 13. Pupspa
 14. TaskBoard
+15. Architecture Blog
  
 # Project using HTML, CSS and JS
 1. Piano Keys
