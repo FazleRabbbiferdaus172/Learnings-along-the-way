@@ -9,12 +9,15 @@ r = int(input())
 st = [r]
 v = [0]*n
 
-while st:
-    x = st.pop(-1)
-    if not v[x]:
-        print(x, end=" ")
-        v[x] = 1
-    for i in g[x]:
-        if not v[i]:
-            st = [i] + st
-print()
+
+def dfs(g, r):
+    global v
+    v[r] = 1
+    print(r)
+    for i in g[r]:
+        if v[i] == 1:
+            continue
+        dfs(g, i)
+
+
+dfs(g, r)
