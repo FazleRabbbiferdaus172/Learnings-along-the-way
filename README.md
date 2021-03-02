@@ -29,6 +29,7 @@ This repo contains few things that I learnd including algorithms, language basic
 3. Lodash
 4. Mini Linter
 5. Mysterious Organism
+6. Build a Library
 
 # Project using HTML
 1. Bear Blog
