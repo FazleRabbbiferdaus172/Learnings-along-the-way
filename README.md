@@ -30,6 +30,7 @@ This repo contains few things that I learnd including algorithms, language basic
 4. Mini Linter
 5. Mysterious Organism
 6. Build a Library
+7. Message Mixer
 
 # Project using HTML
 1. Bear Blog
