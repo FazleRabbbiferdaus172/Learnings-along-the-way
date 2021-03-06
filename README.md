@@ -70,3 +70,4 @@ This repo contains few things that I learnd including algorithms, language basic
 
 # Test driven development Project using Mocha
 1. Rooster Regulation
+2. Factorial Feature
