@@ -9,6 +9,7 @@ This repo contains few things that I learnd including algorithms, language basic
 * CSS
 * HTML
 * p5.js
+* mocha
 
 # List of algoritms
 1. Insertion sort (C++)
