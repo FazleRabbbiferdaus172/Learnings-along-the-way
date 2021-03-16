@@ -69,6 +69,11 @@ This repo contains few things that I learnd including algorithms, language basic
 3. Generative Art Creator
 4. Interactive Video Sculpture
 
+# Project using React
+1. Animal fun facts
+2. Random Color
+3. Video player
+
 # Test driven development Project using Mocha
 1. Rooster Regulation
 2. Factorial Feature
