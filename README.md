@@ -5,6 +5,7 @@ This repo contains few things that I learnd including algorithms, language basic
 * C++
 * Python
 * Javascript
+* php
 * React 
 * CSS
 * HTML
@@ -74,6 +75,8 @@ This repo contains few things that I learnd including algorithms, language basic
 2. Random Color
 3. Video player
 4. Social Network for Pets
+
+# Project using php
 
 # Test driven development Project using Mocha
 1. Rooster Regulation
