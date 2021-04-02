@@ -10,7 +10,7 @@ This repo contains few things that I learnd including algorithms, language basic
 * CSS
 * HTML
 * p5.js
-* mocha
+* Mocha
 
 # List of algoritms
 1. Insertion sort (C++)
@@ -25,6 +25,9 @@ This repo contains few things that I learnd including algorithms, language basic
 3. Random Number Generation
 4. Single Server Queuing System
 5. Inventory system
+
+# Compiler Course
+1. Regular expression
 
 # Project using Javascript 
 1. Dog years
