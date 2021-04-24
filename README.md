@@ -11,6 +11,7 @@ This repo contains few things that I learnd including algorithms, language basic
 * HTML
 * p5.js
 * Mocha
+* Redux
 
 # List of algoritms
 1. Insertion sort (C++)
@@ -81,6 +82,9 @@ This repo contains few things that I learnd including algorithms, language basic
 2. Random Color
 3. Video player
 4. Social Network for Pets
+
+# Project using Redux
+1. Redux Road
 
 # Project using php
 
