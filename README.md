@@ -30,6 +30,7 @@ This repo contains few things that I learnd including algorithms, language basic
 # Compiler Course
 1. Regular expression
 2. Symbol Table (only variable initialization)
+3. Infix, Prefix, Postfix conversion.
 
 # Project using Javascript 
 1. Dog years
