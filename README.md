@@ -19,6 +19,7 @@ This repo contains few things that I learnd including algorithms, language basic
 3. Recursion (Python)
 4. Cycle finding in a Graph
 5. Backtrack
+6. Dijkstra's algorithm
 
 # List of Simulation using Python
 1. Buffon's needle
